@@ -1,4 +1,6 @@
-
+#Name: Triza Mwaura
+#Date: 18/02/2026
+#program to show lists in python
 
 friends = ["racheal","monica","phiby"]
 print(friends)
