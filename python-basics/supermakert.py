@@ -1,6 +1,3 @@
-#name:triza mwaura
-#date:24/02/2026
-
 import tkinter as tk
 from tkinter import ttk, messagebox
 from datetime import datetime
@@ -152,4 +149,3 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = POS(root)
     root.mainloop()
-
